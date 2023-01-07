@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Crypto games project
-- 🌱 I’m currently learning TypeSctipt and Redux
 - 📫 How to reach me: Telegram - https://t.me/SoulDock
 
 
