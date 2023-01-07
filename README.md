@@ -7,6 +7,7 @@
 
 My stack: 
 - React => TypeScript, Redux, ReactRouter, Hooks
-- Layout => Html, Css(TailwindCSS, Bootstrap)
+- Layout => Html, Css(SASS/SCSS, TailwindCSS, Bootstrap)
+- Python & Django
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoulDock&theme=dark&show_icons=true)
