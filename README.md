@@ -5,4 +5,4 @@
 - 📫 How to reach me: Telegram - https://t.me/stwshark
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stwsharkk&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stwshark&theme=dark&show_icons=true)
