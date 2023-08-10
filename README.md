@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning SwiftUI
+- 🌱 learning Swift && SwiftUI
 - 📫 How to reach me: Telegram - https://t.me/stwshark
 
 
