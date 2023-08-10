@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my own project
 - 🌱 learning Swift && SwiftUI
+- https://stwshark.github.io/portfolio/
 - 📫 How to reach me: Telegram - https://t.me/stwshark
 
 
