@@ -2,7 +2,7 @@
 I'am Stanislaw!
 
 - https://stwshark.github.io/portfolio/
-- 📫 How to reach me: Telegram - https://t.me/stwshark
+- 📫 How to reach me: Telegram - https://t.me/swshell
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stwshark&theme=light&show_icons=false)
