@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'am Stanislaw!
 
 - https://stwshark.github.io/portfolio/
 - 📫 How to reach me: Telegram - https://t.me/swshell
