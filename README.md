@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- https://stwshark.github.io/portfolio/
 - 📫 How to reach me: Telegram - https://t.me/swshell
 
 
