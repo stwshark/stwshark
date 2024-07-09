@@ -1,3 +1,11 @@
-📫 Telegram - https://t.me/swshell
+Hi There! Im Stanislaw, iOS Developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stwshark&theme=light&show_icons=false)
+skill base:
+swift swiftUI UIKit + Storyboards
+coreData Realm AVKit
+
+
+
+
+
+
